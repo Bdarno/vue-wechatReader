@@ -32,7 +32,7 @@
 import TitleBar from '@/components/TitleBar'
 import MenuBar from '@/components/MenuBar'
 import Epub from 'epubjs'
-const DOWNLOAD_URL = '/static/lzAll.epub'
+const DOWNLOAD_URL = '/static/es6.epub'
 global.ePub = Epub
 export default {
     components:{
