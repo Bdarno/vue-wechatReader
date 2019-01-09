@@ -23,4 +23,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 =======
 # vue-wechatReader
 一个仿微信读书的阅读器的vue小demo
->>>>>>> 0b9d8ec0118b646da73061476a200a36833ed44b
+
